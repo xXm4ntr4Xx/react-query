@@ -18,7 +18,7 @@ we can pass different elements(data,status,error,isFetching) as shown in the doc
 <img width="281" alt="Screenshot 2022-05-24 at 15 45 17" src="https://user-images.githubusercontent.com/74420607/170064181-4df39c03-5cdf-48ca-a9bd-2ba896e736c7.png">
 
 <hr>
-5.remember to wrap your app into a a queryClientProvider components
+5.remember to wrap your app into a queryClientProvider components
 <img width="585" alt="Screenshot 2022-05-24 at 16 01 02" src="https://user-images.githubusercontent.com/74420607/170067851-94ac4706-73fa-4f80-a590-432dcaf801fc.png">
 <hr>
 6. This is how look the main components with the fetch data, and display the post title on screen
