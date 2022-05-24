@@ -1,4 +1,4 @@
-# Getting Started with React QUery
+# Getting Started with React Query
 
 1.We install react query
 <img width="142" alt="Screenshot 2022-05-24 at 15 26 07" src="https://user-images.githubusercontent.com/74420607/170059676-d6fcec5a-5d9a-4974-a840-f748b82ef1ec.png">
