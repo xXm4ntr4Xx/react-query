@@ -25,7 +25,7 @@ export const Example = () => {
   return (
     <div>
       {data.map(post =>{
-        return <li>{post.title}</li>
+        return <li key={post.id}>{post.title}</li>
       })}
     </div>
   )
